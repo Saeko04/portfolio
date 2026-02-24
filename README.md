@@ -3,11 +3,11 @@
 
 ### 👩‍💻 Future Développeuse | Étudiante en BTS SIO
 
-Je suis une passionnée du vaste univers d'Internet, actuellement en formation pour maîtriser les rouages du développement et des systèmes numériques. Mon passage en STI2D et mon expérience au m'ont appris que la rigueur et la curiosité sont les meilleures alliées du code.
+Je suis une passionnée du vaste univers d'Internet, actuellement en formation pour maîtriser les rouages du développement et des systèmes numériques. Mon passage en STI2D et mon expérience m'ont appris que la rigueur et la curiosité sont les meilleures alliées du code.
 
 ---
 
-### 🛠️ Mes Compétences Technique
+### 🛠️ Mes Compétences Techniques
 * **Langages :** HTML, CSS, PHP, MySQL, JavaScript
 * **Outils :** GitHub, VS Code
 * **En apprentissage :** Frameworks modernes et architecture réseau
