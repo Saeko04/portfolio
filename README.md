@@ -1,5 +1,5 @@
 # portfolio
-# 👋 Bonjour, je suis Louise LEMAY !
+# Bonjour, je suis Louise LEMAY !
 
 ### 👩‍💻 Future Développeuse | Étudiante en BTS SIO
 
