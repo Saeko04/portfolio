@@ -26,5 +26,5 @@ Je suis une passionnée du vaste univers d'Internet, actuellement en formation p
 ---
 
 ### 📫 Me contacter
-* [Consulter mon Portfolio](https://TON-NOUVEAU-LIEN.github.io/)
+* [Consulter mon Portfolio](https://saeko04.github.io/portfolio/)
 * [Me suivre sur LinkedIn](www.linkedin.com/in/louise-lemay-775907325)
